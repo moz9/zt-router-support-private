@@ -2,6 +2,10 @@
 
 Public support kit for installing ZeroTier remote access on OpenWrt routers.
 
+## Repository visibility
+
+This repository is public even though its historical name contains `private`. Do not store fixed private Network IDs, router passwords, private keys, customer details, or operator-only notes here. Keep those values in a private channel or repository.
+
 The public version does not include a fixed ZeroTier Network ID. The installer asks for it during setup.
 
 ## Files
